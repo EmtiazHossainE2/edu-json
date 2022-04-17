@@ -5,7 +5,7 @@
         "img": "https://i.ibb.co/JssXrF9/service1.jpg",
         "description": "Building a strong sense of community in education hub  is both important and doable. My service uses different Community - Building Approaches, that helps us to be a family.It has been said that there is no place like home. The warmth of a home is not dependent on its structure or decoration. It is the people in the house that make the home a place worth living.A home is a place where we feel secure, where we can be who we are and feel loved. But if you really want to enjoy it, then one thing you should do is take out some time from your hectic schedule to spend with the people you care about.",
         "price": "2000",
-        "ratings" : "4.5"
+        "ratings" : 4.5
     },
     {
         "id": "3102",
@@ -13,7 +13,7 @@
         "img": "https://i.ibb.co/MNybBHV/service2.jpg",
         "description": "I am introduce students to the  cultural elements of the culinary arts with fun and intuitive lessons. The Junior Programme is an opportunity for young professionals to work in the field and contribute to the achievement of the Sustainable Development Goals .Sewing, crochet stitching, and other related activities are all fun activities to try at home as a family. There are many kits available on the market that help people get into new crafts, so choose one with your family and dive in!",
         "price": "4000",
-        "ratings" : "5.0"
+        "ratings" : 5.0
     },
     {
         "id": "3103",
@@ -21,7 +21,7 @@
         "img": "https://i.ibb.co/8mJJ6NS/service3.jpg",
         "description": "To help you find a destination that's fun for the grown ups as well as suitable for little ones we've put our expert travel heads together to collate a list of the top 30 places to go with kids.You can ask your family members to plant the crops of their choice and then take care of them. In this way, your garden can have lots of different types of plants in one place. A lush green garden adds an appealing look to your house, and there is nothing better than eating food straight off the vine together." ,
         "price": "5000",
-        "ratings" : "4.0"
+        "ratings" : 4.0
     },
     {
         "id": "3104",
@@ -29,7 +29,7 @@
         "img": "https://i.ibb.co/6FHGBcN/service4.jpg",
         "description": "Kids also learn differently. Although there are three major learning styles: kinesthetic, auditory, and visual, there are further subtle ways children engage with the world to derive information and knowledge.There's an incredible high that comes with being in the flow of artistic expression. Whether you're an amateur photographer, professional filmmaker, summer knitter, or weekend woodworker, art-making can give you the feeling of being completely present, awake, and alive. ",
         "price": "2700",
-        "ratings" : "4.5"
+        "ratings" : 4.5
     },
     {
         "id": "3105",
@@ -37,7 +37,7 @@
         "img": "https://i.ibb.co/gr9DQ4N/service5.jpg",
         "description": "The social benefits of outdoor sports are extremely obvious and, well, beneficial. Playing sports outdoors with a bunch of kids together can improve general social development, in that kids will learn to interact with each-other naturally but with sports as the main social anchor of the activity.make the game even more exciting by having a reward for the winner. It doesn't necessarily have to be a material reward. For example, the person who wins the game could be exempted from their daily chores for a day or two. Since the stakes are high, your family members will participate more enthusiastically.",
         "price": "3500",
-        "ratings" : "5.0"
+        "ratings" : 5.0
     },
     {
         "id": "3106",
@@ -45,6 +45,6 @@
         "img": "https://i.ibb.co/pwQCSNp/service6.jpg",
         "description": "My buildings are filled with children and adults who want to come to school every day. They are engaged in activities that light up their brains, sharpen their critical capacities and develop their consciences.Many people are confused when they are told to consider reading as a family activity, but there is an easy way to read a book together with your family, and that is to listen to an audiobook. But not many book lovers like the concept of an audiobook and they want to read the book by themselves.",
         "price": "5000",
-        "ratings" : "4.5"
+        "ratings" : 4.5
     }
 ]
