@@ -4,6 +4,7 @@
     "productName": "Prayer Mat (Jaynamaz) for Muslim",
     "productSlug": "prayer-mat-jaynamaz",
     "productImage": "/original/blue.jpg",
+    "productPrice" : 1000,
     "description": "Prayer met ( Jaynamaz ) Soft Velvet Prayer Mat, Rug, Jaynamaz From - Suba International.· Velvet Islamic Prayer Rug· Traditional design· Rectangular design· Wide adult prayer carpet· Very soft and feels great to pray on.products as like as picture."
   },
   {
@@ -11,6 +12,7 @@
     "productName": "Modefa Turkish Musallah Jaynamaz",
     "productSlug": "modefa-turkish-musallah-jaynamaz",
     "productImage": "/original/gradient.jpg",
+    "productPrice" : 1000,
     "description": "The prayer rug has a very strong symbolic meaning and traditionally taken care of in a holy manner. It is disrespectful for one to place a prayer mat in a dirty location (as Muslims have to be clean to show their respect to God) or throw it around in a disrespectful manner. The prayer mat is traditionally woven with a rectangular design, typically made asymmetrical by the niche at the head end."
   },
   {
@@ -18,6 +20,7 @@
     "productName": "Prayer met Soft Velvet",
     "productSlug": "prayer-met-soft-velvet",
     "productImage": "/original/red.jpg",
+    "productPrice" : 1000,
     "description": "Wide adult prayer carpet.Very soft and feels great to pray on.Made inTurkey.products as like as picture."
   },
   {
@@ -25,6 +28,7 @@
     "productName": "Prayer Rug Musallah Janamaz",
     "productSlug": "prayer-rug-musallah-janamaz",
     "productImage": "/original/sky.jpg",
+    "productPrice" : 1000,
     "description": "The prayer rug has a very strong symbolic meaning and traditionally taken care of in a holy manner. It is disrespectful for one to place a prayer mat in a dirty location (as Muslims have to be clean to show their respect to God) or throw it around in a disrespectful manner. The prayer mat is traditionally woven with a rectangular design, typically made asymmetrical by the niche at the head end."
   }
 ]
